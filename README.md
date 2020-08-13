@@ -1,10 +1,11 @@
 # DATA FOR UNFI
-Creating data for Unifi platform with PUFs
+*Creating data for Unifi platform with PUFs*
 
+## NPPES
 - Downloaded from https://download.cms.gov/nppes/NPI_Files.html on July 28, 2020. This file contains information from 2005-05-23 to 2020-07-12
 - Note: This data set is updated every month with a full replacement file.
 - Limit data to the following taxonomy codes:
-## PEDIATRICS
+### PEDIATRICS
     208000000X - Pediatrics
     2080A0000X - Adolescent Medicine
     2080C0008X - Child Abuse Pediatrics
@@ -30,7 +31,7 @@ Creating data for Unifi platform with PUFs
     2080S0012X - Sleep Medicine
     2080S0010X - Sports Medicine
     
-  ## Addiction Specific Care
+  ### Addiction Specific Care
     208A0401X - Pyschiatry & Neurology: Addiction Medicine
     2084P0802X - Pyschiatry & Neurology: Addiction Psychiatry
     101YA0400X - Addiction (Substance Use Disorder)
@@ -43,7 +44,7 @@ Creating data for Unifi platform with PUFs
     2083T0002X - Preventive Medicine: Medical Toxicology
     103TA0400X - Psychologist: Addiction (Substance Use Disorder)
     
-  ## Pyschologist, Psychiatrist, Mental Health
+  ### Pyschologist, Psychiatrist, Mental Health
      Starts with 103T, 2084, 101Y
      
    - Aggregated count of providers by Zipcode
