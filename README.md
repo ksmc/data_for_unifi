@@ -1,4 +1,4 @@
-# DATA FOR UNFI
+# DATA FOR UNIFI
 *Creating data for Unifi platform with PUFs*
 
 ## NPPES
